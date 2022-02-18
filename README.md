@@ -1,1 +1,1 @@
-# minikSuElcileri
+# Minik Su Elçileri Projesi
